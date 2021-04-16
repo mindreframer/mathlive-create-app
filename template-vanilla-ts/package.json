@@ -1,0 +1,16 @@
+{
+  "name": "mathlive-typescript-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "mathlive": "^0.60.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "vite": "^2.1.5"
+  }
+}

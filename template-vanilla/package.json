@@ -1,0 +1,15 @@
+{
+  "name": "mathlive-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "mathlive": "^0.60.0"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5"
+  }
+}
